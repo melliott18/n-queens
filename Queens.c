@@ -5,7 +5,6 @@
 //
 // Run: Usage: ./Queens [-v] number
 //      Option: -v verbose output, print all solutions
-//
 //-----------------------------------------------------------------------------
 
 #include <stdio.h>
