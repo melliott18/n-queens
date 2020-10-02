@@ -1,8 +1,8 @@
 #------------------------------------------------------------------------------
-# Makefile for Queens.c with macros
+# Makefile for queens.c with macros
 #------------------------------------------------------------------------------
 
-PROGRAM_NAME = Queens
+PROGRAM_NAME = queens
 EXEBIN       = $(PROGRAM_NAME)
 SOURCE       = $(PROGRAM_NAME).c
 OBJECT       = $(PROGRAM_NAME).o
