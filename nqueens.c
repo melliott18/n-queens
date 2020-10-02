@@ -1,9 +1,9 @@
 //-----------------------------------------------------------------------------
-// queens.c
+// nqueens.c
 //
 // Compile: make
 //
-// Run: Usage: ./Queens [-v] number
+// Run: Usage: ./nqueens [-v] number
 //      Option: -v verbose output, print all solutions
 //-----------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@
 #include <ctype.h>
 
 void printUsageMessage() {
-    printf("%s\n", "Usage: ./queens [-v] number");
+    printf("%s\n", "Usage: ./nqueens [-v] number");
     printf("%s\n", "Option: -v verbose output, print all solutions");
     exit(EXIT_FAILURE);
 }
